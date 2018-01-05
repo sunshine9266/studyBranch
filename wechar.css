@@ -2,9 +2,11 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
+
 *{margin:0;padding: 01;}
 .liwudi{
 	padding: 0;
+	color: red;
 }
 
 *{margin:0;padding: 0;}
